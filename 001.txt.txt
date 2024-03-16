@@ -1,1 +1,4 @@
-hello
+git status
+git add . 
+git commit -m "prem bhai"
+git push -u origin main
